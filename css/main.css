@@ -1,0 +1,7 @@
+.carousel{
+    width: 300px;
+    background-color: aqua;
+}
+.carousel > img{
+    width: 100%;
+}
